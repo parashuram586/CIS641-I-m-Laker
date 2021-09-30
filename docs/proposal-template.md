@@ -5,9 +5,9 @@ Team members:Parashuram Singaraveni
 # Introduction
 
 The project I am going to develop is A Faculty Management System, which is simple web web application but kind of useful project .
-Student and Faculty are both involves in this project, it is like our BlackBoard. This project much helpful in facilitating the  student and faculty.Both Student and faculty can access the application, students can see their personal data or any information about academics and assignments. Faculty can manage all the information related to the their respective class students. 
+The goal of this system is to manage all faculty records, generally this type of software is used by A school or University Adminstrators to manage faculty. There are operations performed by thisd system like add faculty, update faculty, delete faculty, search faculty details. Faculty can be enter into the website by using username and password. It is accessible by an adminstrator, Only the admin can add data into the database.
 
-Through this application student can check their class details and also attendence. Faculty can easily deal with the students by using this web application.If students not able to attend the class because of any reason, they can ask leave throuh this application. This web application consist of many modules to make easy connection between student and faculty.One admin can manaage the whole application, he has the authentication to delete records of students and faculty records .
+Theough this system faculty can check their records, adminstrator can easily deal this system. Faculty can search other faculty members and they can send requests to the adminstrator if they want to . Adminstrator can update faculty data into rcords by clicking update faculty button.This web applications consist of many module those can helpful in managing faculty. 
 
 # Anticipated Technologies
 We can develop this kind of project by using any programming languages but  I am going to use HTML, CSS for the front-end and for the backend PHP and mysql as a database server.
