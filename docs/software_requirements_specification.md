@@ -15,4 +15,4 @@ The purpose of SRS document is to provide good understanding about a software sy
  2. This is 1.1 Security: all faculty data is well protected and access permission for application data may only be managed by the system administrator.
  3. and 1.2 Performance: The performance is good and this is very responsive, takes less time to browse the data
  4. and 1.3 Usability: Users shall be able to understand this feature easily . They shall feel good while using the system, which is user-friendly.
- 5. and 1.4 Reliability:  The system shall perform consistently and specifically without failure, it is reliable.
+ 5. and 1.4 Reliability:  The system shall perform consistently and specifically without failure, it is reliable .
