@@ -143,8 +143,8 @@ This section discribes about the tracing of artifacts and their functional and n
 | ActivityDiagram2 | ActivityDiagram2 | FR2, FR18, FR17,FR21, NFR1, NFR17, NFR21 |
 # Software Artifacts
 Software artifacts describes the design models of the website and the software requirements are included where the source codes are written and executed. Test models are also applied to test whether it is a desired outcome and it gives complete overview of how the program is executed.
-* Link for[use case-activity diagrams](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/use case-activity diagrams.pdf)
-* Link for[crc-class-object diagrams](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/crc-class-object diagrams.pdf)
-* Link for[WND](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/WND.pdf)
-* Link for[use case description](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/use case description.pf)
-* Link for[hci](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/hci.pdf)
+* Link for [use case-activity diagrams](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-modelsuse-case-activity-diagrams.pdf) 
+* Link for [crc-class-object diagrams](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/crc-class-object-diagrams.pf)
+* Link for [WND](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/WND.pdf)
+* Link for [use case description](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/use case description.pf)
+* Link for [hci](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/hci.pdf)
