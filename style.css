@@ -120,18 +120,6 @@
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
-/*--project style2--*/
-.requirements{
-
-    display: flex;
-    flex-wrap: wrap;
-    background: url(images/bg.jpg);
-    flex-direction: row;
-    text-align: center;
-    padding: 20px;
-    min-height: 300px;
-    font-family: 'Ubuntu', sans-serif;
-}
 /*--project styling3--*/
 .tech{
 
