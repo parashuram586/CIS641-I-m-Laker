@@ -146,5 +146,5 @@ Software artifacts describes the design models of the website and the software r
 * Link for [use case-activity diagrams](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-modelsuse-case-activity-diagrams.pdf) 
 * Link for [crc-class-object diagrams](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/crc-class-object-diagrams.pf)
 * Link for [WND](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/WND.pdf)
-* Link for [use case description](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/use case description.pf)
+* Link for [use case description](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/use-case-description.pdf)
 * Link for [hci](https://github.com/parashuram586/CIS641-I-m-Laker/tree/master/artifacts/functional-models/hci.pdf)
